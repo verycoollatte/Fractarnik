@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "HmgXtkHPZC14Jwd1FTNQh9ZapmH1Lp95miMWXwBh8jDpHQfjpiUjG7QRthEKyM3YfRdIs2qNNZlN7SvOyUWFEA==",
+  "success": true,
+  "projectFilePath": "D:\\Fractarnik\\Fractarnik\\Fractarnik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Оленька\\.nuget\\packages\\extended.wpf.toolkit\\4.2.0\\extended.wpf.toolkit.4.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Extended.Wpf.Toolkit 4.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net5.0-windows7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Extended.Wpf.Toolkit",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
